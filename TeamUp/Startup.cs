@@ -9,6 +9,7 @@ namespace TeamUp
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+            string bla = "Asd";
         }
     }
 }
